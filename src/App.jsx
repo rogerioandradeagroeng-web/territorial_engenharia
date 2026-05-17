@@ -52,8 +52,7 @@ export default function App() {
             <img
               src="/logo-territorial.png"
               alt="Territorial Engenharia"
-              className="h-10 w-10 object-contain"
-              
+              className="h-10 w-10 object-contain"              
               />
 
             <div>
