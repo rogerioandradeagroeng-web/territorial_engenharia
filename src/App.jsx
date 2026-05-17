@@ -173,8 +173,6 @@ export default function App() {
             />
 
             <div>
-              <h1 className="text-2xl font-black">
-                Territorial Engenharia
               </h1>
 
               <p className="text-gray-400 text-sm mt-1">
