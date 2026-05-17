@@ -169,7 +169,7 @@ export default function App() {
             <img
               src="/logo-territorial.png"
               alt="Territorial Engenharia"
-              className="h-16 w-auto"
+              className="h-30 w-auto"
             />
 
             <div>
