@@ -51,9 +51,10 @@ export default function App() {
           <div className="flex items-center gap-4">
             <img
               src="/logo-territorial.png"
-              className="h-12 w-auto"
               alt="Territorial Engenharia"
-            />
+              className="h-10 w-10 object-contain"
+              
+              />
 
             <div>
               <h1 className="text-xl font-bold tracking-wide">
