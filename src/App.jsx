@@ -381,7 +381,7 @@ export default function App() {
               </p>
 
               <p className="text-xl mt-3">
-                Pernambuco • Brasil
+                Rua Graciliano Ramos, 143, Centro. Buíque/PE. CEP: 56520-000
               </p>
             </div>
           </div>
