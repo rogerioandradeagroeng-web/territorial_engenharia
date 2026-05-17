@@ -48,11 +48,12 @@ export default function App() {
       <header className="bg-[#0B0F14] border-b border-white/10 sticky top-0 z-50 backdrop-blur">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
 
-          <div className="flex items-center gap-4">
+          <div className="flex items-center gap-3">
             <img
               src="/logo-territorial.png"
               alt="Territorial Engenharia"
-              className="h-10 w-10 object-contain"              
+              className="w-10 h-10 object-contain"
+              style={{ display: "block" }}           
               />
 
             <div>
