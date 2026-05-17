@@ -342,8 +342,7 @@ export default function App() {
       <footer className="bg-gray-950 text-white py-20">
         <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-start">
           <div>
-            <h3 className="text-4xl font-black">
-              Territorial Engenharia
+
             </h3>
 
             <p className="text-gray-400 mt-8 leading-relaxed text-lg">
